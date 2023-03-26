@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: rgb(255, 255, 255);
+    line-height: 30px;
+    overflow: auto;
+    list-style: none;
+}
+
+
+header nav {
+    height: 80px;
+    background-color: rgb(0, 0, 0);
+}
+
+.nav-link{
+    color:rgb(255, 255, 255);
+}
+
+.navbar-toggler{
+
+    background-color:#1ed760;
+}
+
+
+.custom-hover:hover {
+    color: #1ed760;
+}
+
+#navbarNav{
+    background-color: black;
+    padding-left: 5%;
+}
+
+.image-header{
+    background-color: #1D75DE;
+    text-align: left;
+    padding: 90px;
+    color: white;
+    height: 400px;
+}
+
+#condiciones{
+    color: white;
+}
+
+#Planes {
+    background-color: black;
+}
